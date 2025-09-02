@@ -14,7 +14,7 @@ class Solution {
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
                 if (grid[i][j] == 2) {
-                    q.add(new int[]{i, j, 0}); 
+                    q.offer(new int[]{i, j, 0}); 
                 } else if (grid[i][j] == 1) {
                     fresh++;
                 }
@@ -42,7 +42,7 @@ class Solution {
                 if (nr >= 0 && nr < rows && nc >= 0 && nc < cols && grid[nr][nc] == 1) {
                     grid[nr][nc] = 2; 
                     fresh--; 
-                    q.add(new int[]{nr, nc, t + 1});
+                    q.offer(new int[]{nr, nc, t + 1});
                 }
             }
         }

@@ -1,40 +1,34 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        List<List<Integer>> graph = new ArrayList<>();
-        for (int i = 0; i < numCourses; i++) {
+        List<List<Integer>> graph=new ArrayList<>();
+        for(int i=0;i<numCourses;i++){
             graph.add(new ArrayList<>());
         }
-        int[] inDegree = new int[numCourses];
-
-        for (int[] pre : prerequisites) {
-            int course = pre[0];
-            int prereq = pre[1];
-            graph.get(prereq).add(course);
-            inDegree[course]++;
+        int[] indegree=new int[numCourses];
+        for(int[] pair:prerequisites){
+            int dest=pair[0];
+            int src=pair[1];
+            graph.get(src).add(dest);
+            indegree[dest]++;
         }
-
-        // Step 2: Queue for all courses with no prerequisites
-        Queue<Integer> queue = new LinkedList<>();
-        for (int i = 0; i < numCourses; i++) {
-            if (inDegree[i] == 0) {
-                queue.offer(i);
+        Queue<Integer> q=new LinkedList<>();
+        for(int i=0;i<numCourses;i++){
+            if(indegree[i] == 0){
+                q.add(i);
             }
         }
-
-        // Step 3: Process courses
-        int taken = 0;
-        while (!queue.isEmpty()) {
-            int curr = queue.poll();
-            taken++;
-            for (int next : graph.get(curr)) {
-                inDegree[next]--;
-                if (inDegree[next] == 0) {
-                    queue.offer(next);
+        int visited=0;
+        while(!q.isEmpty()){
+            int node = q.poll();
+            visited++;
+            for(int nei:graph.get(node)){
+                indegree[nei]--;
+                if(indegree[nei] == 0){
+                    q.add(nei);
                 }
             }
         }
-
-        // Step 4: If we processed all courses → possible
-        return taken == numCourses;
+        return visited == numCourses;
     }
 }
+        

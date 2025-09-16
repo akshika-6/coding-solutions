@@ -19,7 +19,7 @@ class Solution {
             int[] cur = q.poll();
             int node = cur[0], cost = cur[1], stops = cur[2];
 
-            if (stops > k) continue; // can't go beyond k stops
+            if (stops <= k){ // can't go beyond k stops
 
             for (int[] nei : adj.get(node)) {
                 int v = nei[0], price = nei[1];
@@ -28,6 +28,7 @@ class Solution {
                     q.add(new int[]{v, dist[v], stops + 1});
                 }
             }
+        }
         }
 
         return dist[dst] == Integer.MAX_VALUE ? -1 : dist[dst];

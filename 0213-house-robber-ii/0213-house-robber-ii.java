@@ -1,28 +1,31 @@
 class Solution {
     public int rob(int[] nums) {
         int n = nums.length;
-        if (n == 1) return nums[0]; // only one house
+        if (n == 1) return nums[0];
 
-        // Case 1: rob from house 0 to n-2
-        int case1 = robLinear(nums, 0, n - 2);
+        int[] memo1 = new int[n];
+        int[] memo2 = new int[n];
+        Arrays.fill(memo1, -1);
+        Arrays.fill(memo2, -1);
 
-        // Case 2: rob from house 1 to n-1
-        int case2 = robLinear(nums, 1, n - 1);
+        // Case 1: rob houses 0 to n-2
+        int case1 = robHelper(nums, 0, n - 2, memo1);
+        // Case 2: rob houses 1 to n-1
+        int case2 = robHelper(nums, 1, n - 1, memo2);
 
         return Math.max(case1, case2);
     }
 
-    // Helper function for the linear House Robber problem
-    private int robLinear(int[] nums, int start, int end) {
-        int prev1 = 0; // max amount till i-1
-        int prev2 = 0; // max amount till i-2
+    private int robHelper(int[] nums, int i, int n, int[] memo) {
+        if (i > n) return 0;
+        if (memo[i] != -1) return memo[i];
 
-        for (int i = start; i <= end; i++) {
-            int temp = prev1;
-            prev1 = Math.max(prev2 + nums[i], prev1);
-            prev2 = temp;
-        }
+        // Option 1: Rob current house, skip next
+        int robCurrent = nums[i] + robHelper(nums, i + 2, n, memo);
+        // Option 2: Skip current house
+        int skipCurrent = robHelper(nums, i + 1, n, memo);
 
-        return prev1;
+        memo[i] = Math.max(robCurrent, skipCurrent);
+        return memo[i];
     }
 }

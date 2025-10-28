@@ -2,10 +2,11 @@ class Solution {
     public int findTargetSumWays(int[] nums, int target) {
         int sum = Arrays.stream(nums).sum();
         int ans = 0;
-
-        // edge case check
-        if (sum < Math.abs(target) || (sum + target) % 2 != 0) {
+        if ((sum + target) % 2 != 0) {
             return 0; 
+        }
+        if((sum + target) < 0){
+            return 0;
         }
 
         int s1 = (sum + target) / 2;

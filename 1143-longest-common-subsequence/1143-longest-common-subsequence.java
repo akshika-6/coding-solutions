@@ -5,17 +5,20 @@ class Solution {
         //int[][] dp=new int[m+1][n+1];
         int[] dp=new int[n+1];
         for(int i=1;i<=m;i++){
-            int temp[]=new int[n+1];
+            // int temp[]=new int[n+1];
+            int prev=0;
             for(int j=1;j<=n;j++){
+                int t=dp[j];
                 if(text1.charAt(i-1)==text2.charAt(j-1)){
                     //dp[i][j]=1 + dp[i-1][j-1];
-                    temp[j]=1 + dp[j-1];
+                    dp[j]=1 + prev;
                 }
                 else{
-                    temp[j]=Math.max(dp[j],temp[j-1]);
+                    dp[j]=Math.max(dp[j],dp[j-1]);
                 }
+                prev = t;
             }
-            dp=temp;
+            //dp=temp;
         }
         return dp[n];
     }

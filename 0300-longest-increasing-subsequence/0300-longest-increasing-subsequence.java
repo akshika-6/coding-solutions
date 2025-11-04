@@ -1,23 +1,17 @@
 class Solution {
-    public int lengthOfLIS(int[] arr) {
-        int n=arr.length;
-        int[] dp=new int[n];
-        Arrays.fill(dp,1);
-        for(int i=1;i<n;i++){
-            for(int j=0;j<i;j++){
-                if(arr[i] > arr[j]){
-                    if(dp[j]+1 > dp[i]){
-                        dp[i]=dp[j]+1;
-                    }
-                }
+    public int lengthOfLIS(int[] nums) {
+        List<Integer> tails=new ArrayList<>();
+        for(int num:nums){
+            int i=Collections.binarySearch(tails,num);
+            if(i<0){
+                i=-(i+1);
+            }
+            if(i == tails.size()){
+                tails.add(num);
+            } else {
+                tails.set(i,num);
             }
         }
-        int max=-1;
-        for(int i=0;i<n;i++){
-            if(dp[i] > max){
-                max=dp[i];
-            }
-        }
-        return max;
+        return tails.size();
     }
 }

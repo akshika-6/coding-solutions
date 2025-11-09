@@ -9,7 +9,7 @@ class Solution {
             dp.put(stone, new HashSet<>());
         }
 
-        dp.get(stones[0]).add(0); // Start at first stone with jump size 0
+        dp.get(stones[0]).add(0); 
 
         for (int i = 0; i < n; i++) {
             int position = stones[i];
@@ -17,7 +17,7 @@ class Solution {
                 for (int step = jump - 1; step <= jump + 1; step++) {
                     if (step > 0) {
                         int nextPos = position + step;
-                        if (nextPos == stones[n - 1]) return true; // reached last stone
+                        if (nextPos == stones[n - 1]) return true; 
                         if (dp.containsKey(nextPos)) {
                             dp.get(nextPos).add(step);
                         }

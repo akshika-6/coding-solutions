@@ -1,0 +1,33 @@
+class Solution {
+    public int minDeletionSize(String[] strs) {
+        int n = strs.length;
+        int m = strs[0].length();
+        boolean[] sorted = new boolean[n - 1];
+        int deletions = 0;
+
+        for (int col = 0; col < m; col++) {
+            boolean bad = false;
+
+            // Step 1: Check if deleting is necessary
+            for (int i = 0; i < n - 1; i++) {
+                if (!sorted[i] && strs[i].charAt(col) > strs[i + 1].charAt(col)) {
+                    bad = true;
+                    break;
+                }
+            }
+
+            if (bad) {
+                deletions++;
+                continue;
+            }
+
+            // Step 2: Update sorted pairs
+            for (int i = 0; i < n - 1; i++) {
+                if (strs[i].charAt(col) < strs[i + 1].charAt(col)) {
+                    sorted[i] = true;
+                }
+            }
+        }
+        return deletions;
+    }
+}

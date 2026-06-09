@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akshika-6/coding-solutions/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/akshika-6/coding-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/akshika-6/coding-solutions/tree/master/0283-move-zeroes) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/akshika-6/coding-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akshika-6/coding-solutions/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/akshika-6/coding-solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/akshika-6/coding-solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/akshika-6/coding-solutions/tree/master/0443-string-compression) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akshika-6/coding-solutions/tree/master/0011-container-with-most-water) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akshika-6/coding-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/akshika-6/coding-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sorting

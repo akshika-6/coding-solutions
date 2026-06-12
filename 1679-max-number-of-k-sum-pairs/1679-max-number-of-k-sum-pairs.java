@@ -1,20 +1,17 @@
 class Solution {
     public int maxOperations(int[] nums, int k) {
-        Arrays.sort(nums);
-
+        HashMap<Integer,Integer> map = new HashMap<>();
         int count = 0;
-        int i = 0;
-        int j = nums.length-1;
-        while(i < j){
-            int sum = nums[i] + nums[j];
-            if(sum == k){
+
+        for(int num: nums){
+            int complement = k - num;
+
+            if(map.getOrDefault(complement, 0) > 0){
                 count++;
-                i++;
-                j--;
-            }else if(sum < k){
-                i++;
+
+                map.put(complement, map.get(complement)-1);
             }else{
-                j--;
+                map.put(num,map.getOrDefault(num,0)+1);
             }
         }
         return count;

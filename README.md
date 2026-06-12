@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/akshika-6/coding-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/akshika-6/coding-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/akshika-6/coding-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/akshika-6/coding-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akshika-6/coding-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/akshika-6/coding-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Math
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/akshika-6/coding-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/akshika-6/coding-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/akshika-6/coding-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/akshika-6/coding-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/akshika-6/coding-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Two Pointers
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/akshika-6/coding-solutions/tree/master/0392-is-subsequence) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/akshika-6/coding-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/akshika-6/coding-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/akshika-6/coding-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Enumeration
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akshika-6/coding-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/akshika-6/coding-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/akshika-6/coding-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -102,4 +106,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/akshika-6/coding-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/akshika-6/coding-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/akshika-6/coding-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 <!---LeetCode Topics End-->

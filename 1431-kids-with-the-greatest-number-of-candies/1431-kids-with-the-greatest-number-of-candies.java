@@ -5,8 +5,9 @@ class Solution {
         for(int i: candies){
             if(i > max) max = i;
         }
+        max = Math.abs(extraCandies-max);
         for(int i: candies){
-            if((i + extraCandies) >= max){
+            if(i >= max){
                 res.add(true);
             } else{
                 res.add(false);

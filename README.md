@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/akshika-6/coding-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/akshika-6/coding-solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshika-6/coding-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/akshika-6/coding-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/akshika-6/coding-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/akshika-6/coding-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/akshika-6/coding-solutions/tree/master/1732-find-the-highest-altitude) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1207-unique-number-of-occurrences](https://github.com/akshika-6/coding-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/akshika-6/coding-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akshika-6/coding-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/akshika-6/coding-solutions/tree/master/2215-find-the-difference-of-two-arrays) |

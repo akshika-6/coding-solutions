@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/akshika-6/coding-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/akshika-6/coding-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/akshika-6/coding-solutions/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/akshika-6/coding-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/akshika-6/coding-solutions/tree/master/1840-maximum-building-height) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/akshika-6/coding-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akshika-6/coding-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -54,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akshika-6/coding-solutions/tree/master/0011-container-with-most-water) |
+| [1833-maximum-ice-cream-bars](https://github.com/akshika-6/coding-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akshika-6/coding-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/akshika-6/coding-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sorting
 |  |
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/akshika-6/coding-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1833-maximum-ice-cream-bars](https://github.com/akshika-6/coding-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/akshika-6/coding-solutions/tree/master/1840-maximum-building-height) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/akshika-6/coding-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Dynamic Programming
@@ -138,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/akshika-6/coding-solutions/tree/master/2390-removing-stars-from-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/akshika-6/coding-solutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->

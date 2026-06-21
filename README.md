@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/akshika-6/coding-solutions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/akshika-6/coding-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/akshika-6/coding-solutions/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/akshika-6/coding-solutions/tree/master/0735-asteroid-collision) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshika-6/coding-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/akshika-6/coding-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/akshika-6/coding-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/akshika-6/coding-solutions/tree/master/0735-asteroid-collision) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/akshika-6/coding-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2352-equal-row-and-column-pairs](https://github.com/akshika-6/coding-solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/akshika-6/coding-solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/akshika-6/coding-solutions/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/akshika-6/coding-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Counting Sort
 |  |

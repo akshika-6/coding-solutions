@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/akshika-6/coding-solutions/tree/master/0392-is-subsequence) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/akshika-6/coding-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/akshika-6/coding-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/akshika-6/coding-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/akshika-6/coding-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshika-6/coding-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/akshika-6/coding-solutions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/akshika-6/coding-solutions/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/akshika-6/coding-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/akshika-6/coding-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akshika-6/coding-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/akshika-6/coding-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshika-6/coding-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/akshika-6/coding-solutions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/akshika-6/coding-solutions/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/akshika-6/coding-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/akshika-6/coding-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akshika-6/coding-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Simulation
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshika-6/coding-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/akshika-6/coding-solutions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/akshika-6/coding-solutions/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/akshika-6/coding-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/akshika-6/coding-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/akshika-6/coding-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/akshika-6/coding-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |

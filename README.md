@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/akshika-6/coding-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/akshika-6/coding-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/akshika-6/coding-solutions/tree/master/1840-maximum-building-height) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akshika-6/coding-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/akshika-6/coding-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akshika-6/coding-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/akshika-6/coding-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/akshika-6/coding-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akshika-6/coding-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/akshika-6/coding-solutions/tree/master/1768-merge-strings-alternately) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akshika-6/coding-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/akshika-6/coding-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/akshika-6/coding-solutions/tree/master/3614-process-string-with-special-operations-ii) |
 ## Sliding Window

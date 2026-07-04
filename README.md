@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/akshika-6/coding-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/akshika-6/coding-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/akshika-6/coding-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akshika-6/coding-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/akshika-6/coding-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/akshika-6/coding-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Bit Manipulation
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/akshika-6/coding-solutions/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/akshika-6/coding-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/akshika-6/coding-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akshika-6/coding-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshika-6/coding-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akshika-6/coding-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search Tree
@@ -255,11 +257,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/akshika-6/coding-solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/akshika-6/coding-solutions/tree/master/0841-keys-and-rooms) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akshika-6/coding-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akshika-6/coding-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/akshika-6/coding-solutions/tree/master/0547-number-of-provinces) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akshika-6/coding-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshika-6/coding-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |

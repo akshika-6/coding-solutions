@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/akshika-6/coding-solutions/tree/master/0735-asteroid-collision) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshika-6/coding-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/akshika-6/coding-solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1301-number-of-paths-with-max-score](https://github.com/akshika-6/coding-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/akshika-6/coding-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/akshika-6/coding-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/akshika-6/coding-solutions/tree/master/1732-find-the-highest-altitude) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/akshika-6/coding-solutions/tree/master/0392-is-subsequence) |
+| [1301-number-of-paths-with-max-score](https://github.com/akshika-6/coding-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/akshika-6/coding-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/akshika-6/coding-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/akshika-6/coding-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/akshika-6/coding-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [2352-equal-row-and-column-pairs](https://github.com/akshika-6/coding-solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akshika-6/coding-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akshika-6/coding-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |

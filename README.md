@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/akshika-6/coding-solutions/tree/master/0020-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/akshika-6/coding-solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/akshika-6/coding-solutions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/akshika-6/coding-solutions/tree/master/0443-string-compression) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/akshika-6/coding-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/akshika-6/coding-solutions/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/akshika-6/coding-solutions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/akshika-6/coding-solutions/tree/master/0735-asteroid-collision) |

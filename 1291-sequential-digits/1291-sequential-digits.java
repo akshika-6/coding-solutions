@@ -1,0 +1,25 @@
+class Solution {
+    public List<Integer> sequentialDigits(int low, int high) {
+
+        List<Integer> ans = new ArrayList<>();
+
+        String digits = "123456789";
+
+        // Length of sequential number
+        for (int len = 2; len <= 9; len++) {
+
+            // Starting index of substring
+            for (int start = 0; start + len <= 9; start++) {
+
+                String s = digits.substring(start, start + len);
+                int num = Integer.parseInt(s);
+
+                if (num >= low && num <= high) {
+                    ans.add(num);
+                }
+            }
+        }
+
+        return ans;
+    }
+}

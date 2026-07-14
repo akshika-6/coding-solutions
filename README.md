@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/akshika-6/coding-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/akshika-6/coding-solutions/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshika-6/coding-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/akshika-6/coding-solutions/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/akshika-6/coding-solutions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/akshika-6/coding-solutions/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/akshika-6/coding-solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/akshika-6/coding-solutions/tree/master/0155-min-stack) |
 | [0933-number-of-recent-calls](https://github.com/akshika-6/coding-solutions/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |

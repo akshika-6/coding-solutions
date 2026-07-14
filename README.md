@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/akshika-6/coding-solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/akshika-6/coding-solutions/tree/master/0042-trapping-rain-water) |
+| [0160-intersection-of-two-linked-lists](https://github.com/akshika-6/coding-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/akshika-6/coding-solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/akshika-6/coding-solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/akshika-6/coding-solutions/tree/master/0443-string-compression) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/akshika-6/coding-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/akshika-6/coding-solutions/tree/master/0169-majority-element) |
 | [0525-contiguous-array](https://github.com/akshika-6/coding-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akshika-6/coding-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/akshika-6/coding-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akshika-6/coding-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |

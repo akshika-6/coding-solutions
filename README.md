@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/akshika-6/coding-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/akshika-6/coding-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/akshika-6/coding-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3870-count-commas-in-range](https://github.com/akshika-6/coding-solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/akshika-6/coding-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |

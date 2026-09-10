@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/akshika-6/coding-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/akshika-6/coding-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akshika-6/coding-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/akshika-6/coding-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/akshika-6/coding-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/akshika-6/coding-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/akshika-6/coding-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/akshika-6/coding-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akshika-6/coding-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/akshika-6/coding-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Simulation
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/akshika-6/coding-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/akshika-6/coding-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/akshika-6/coding-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/akshika-6/coding-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akshika-6/coding-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/akshika-6/coding-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/akshika-6/coding-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
